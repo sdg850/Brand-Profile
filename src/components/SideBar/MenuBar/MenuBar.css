@@ -1,0 +1,8 @@
+.Submenu_container{
+	font-weight: bold;
+}
+
+
+.Submenu_container:hover{
+	color: #6614F5;
+}

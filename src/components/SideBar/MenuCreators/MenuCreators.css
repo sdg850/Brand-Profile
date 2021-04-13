@@ -1,0 +1,26 @@
+
+.info_Creators{
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+	justify-content: center;
+	align-items: center;
+	
+	column-gap: 0.5rem;
+	height: 5vh;
+	
+}
+
+.profile_Creators{
+	height:1vh;
+	display: grid;
+	grid-template-columns: 1fr;
+}
+
+
+.profile_t{
+	display: block;
+}
+
+.container_menu{
+	height: 5px;
+}

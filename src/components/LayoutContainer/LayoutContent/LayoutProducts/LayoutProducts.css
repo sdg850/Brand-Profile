@@ -1,0 +1,14 @@
+.ColContainerCard{
+	margin-top: 2rem;
+}
+
+.card_container{
+	display: grid;
+	justify-content: center;
+	align-items: center;	
+	width: 240;
+}
+
+.text-center{
+	text-align: center;
+}
