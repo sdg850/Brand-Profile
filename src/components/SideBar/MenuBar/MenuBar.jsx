@@ -2,14 +2,14 @@ import React, { useState } from 'react'
 import { Menu } from 'antd';
 import { UserOutlined } from '@ant-design/icons';
 import './MenuBar.css'
-import Start from '../../Assets/IconReact/Start'
+
 
 
 const { SubMenu } = Menu;
 
 const MenuSideBar = [
 	{ 'name': 'Explore all', 'icon': <UserOutlined />, 'submenu': [{ 'name': 'Products' }, { 'name': 'Reviews' }, { 'name': 'Influencers' }, { 'name': 'Brands' }] },
-	{ 'name': 'Categories', 'icon':  <Start /> , 'submenu': [{ 'name': 'Shorts' }, { 'name': 'Shoes' }, { 'name': 'Polos' }, { 'name': 'coats' }] },
+	{ 'name': 'Categories', 'icon':  <UserOutlined /> , 'submenu': [{ 'name': 'Shorts' }, { 'name': 'Shoes' }, { 'name': 'Polos' }, { 'name': 'coats' }] },
 	{ 'name': 'Offers', 'icon': <UserOutlined />, 'submenu': [{ 'name': '10% off' }, { 'name': '20% off' }, { 'name': '30% off' }, { 'name': 'More..' }] },
 	{ 'name': 'New', 'icon': <UserOutlined />, 'submenu': [{ 'name': 'Shorts' }, { 'name': 'Shoes' }, { 'name': 'Polos' }, { 'name': 'coats' }] },
 ]
