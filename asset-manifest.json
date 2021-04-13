@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Brand-Profile/static/css/main.b9d79f13.chunk.css",
+    "main.js": "/Brand-Profile/static/js/main.32252ddb.chunk.js",
+    "main.js.map": "/Brand-Profile/static/js/main.32252ddb.chunk.js.map",
+    "runtime-main.js": "/Brand-Profile/static/js/runtime-main.c326c055.js",
+    "runtime-main.js.map": "/Brand-Profile/static/js/runtime-main.c326c055.js.map",
+    "static/css/2.558413a2.chunk.css": "/Brand-Profile/static/css/2.558413a2.chunk.css",
+    "static/js/2.62987067.chunk.js": "/Brand-Profile/static/js/2.62987067.chunk.js",
+    "static/js/2.62987067.chunk.js.map": "/Brand-Profile/static/js/2.62987067.chunk.js.map",
+    "static/js/3.ad6fe512.chunk.js": "/Brand-Profile/static/js/3.ad6fe512.chunk.js",
+    "static/js/3.ad6fe512.chunk.js.map": "/Brand-Profile/static/js/3.ad6fe512.chunk.js.map",
+    "index.html": "/Brand-Profile/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/Brand-Profile/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.b9d79f13.chunk.css.map": "/Brand-Profile/static/css/main.b9d79f13.chunk.css.map",
+    "static/js/2.62987067.chunk.js.LICENSE.txt": "/Brand-Profile/static/js/2.62987067.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c326c055.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.62987067.chunk.js",
+    "static/css/main.b9d79f13.chunk.css",
+    "static/js/main.32252ddb.chunk.js"
+  ]
+}
